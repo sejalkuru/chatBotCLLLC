@@ -116,7 +116,7 @@ def index():
 
           if (cls === 'bot') {
             const img = document.createElement('img');
-            img.src = 'https://i.postimg.cc/VktGpw2C/Untitled-design-1.png'; // chatbot icon URL
+            img.src = 'https://i.postimg.cc/2SSTh8bQ/Untitled-design-2.png'; // chatbot icon URL
             img.alt = 'bot icon';
             img.style.width = '24px';
             img.style.height = '24px';
